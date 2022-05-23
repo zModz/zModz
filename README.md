@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on <a href="https://github.com/zModz/ProjectZombieGame">Project: AlienGame</a>
+- 🔭 I’m currently working on <a href="https://github.com/zModz/JumpJump">Jump & Jump</a>
 - 🌱 I’m currently learning <a href="https://unity.com/">Unity</a>
 - 🎮 I'm a gamer at heart 
 - ⚡ Fun fact: I'm really bad at typing
