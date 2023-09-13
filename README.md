@@ -20,7 +20,7 @@
 | --- |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sbcjd5os2kw6etvq0dr3mkenm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=sbcjd5os2kw6etvq0dr3mkenm&redirect=true) |
 
-- 🔭 I’m currently working on porting <a href="https://github.com/zModz/ProjectZombieGame">Project Zombie Game</a> to other game engine
+- 🔭 I’m currently working on porting <a href="https://github.com/zModz/ProjectZombieGame">Project: ZombieGame</a> to other game engine
 - 🌱 I’m currently learning ~~Unity~~
     - Fuck you Unity, seriously.
 - 🎮 I'm a gamer at heart
