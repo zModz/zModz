@@ -11,29 +11,31 @@
     <h3>Languages and Tools</h3>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><br>
     <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine">
 </div>
-    <h3>At a glance</h3>
 
-- 🔭 I’m currently working on porting <a href="https://github.com/zModz/ProjectZombieGame">Project: ZombieGame</a> to <a href="https://godotengine.org/" target="_blank">Godot</a>
-- 🌱 I’m currently learning Godot
-    - Fuck you Unity, seriously.
+<h3>At a glance</h3>
+
+- 😄 Pronouns: He/Him 
+- 🔭 I’m currently working on <a href="https://github.com/zModz/ProjectZombieGame">Project: ZombieGame</a> and <b>[REDACTED]</b>
+- 🌱 I’m currently learning how to code again
 - 🎮 I'm a gamer at heart
 - ⚡ Fun fact: I'm really bad at typing
 <!-- 
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
+- 📫 How to reach me: 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
 -->
+
 # Stats 🏆
-<a><img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmodz&langs_count=3&theme=transparent"/></a>
-<a><img height="180em" alight="center" src="https://github-readme-stats.vercel.app/api?username=zmodz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Mods's+All+Time+Stats"/></a>
-*<p>Note: My top languagues do not represent my skill level, it's just a github metric from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)</p>*
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=zmodz&theme=dark)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=zmodz&theme=dark)](https://github.com/stats-organization/github-stats-extended)
+*<p>Note: My top languagues do not represent my skill level, it's just a github metric from [github-stats-extended](https://github.com/stats-organization/github-stats-extended)</p>*
 
 <!--
 ## Contributions as Snake 🐍
